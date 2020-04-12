@@ -1,1 +1,1 @@
-# AI-Chat-bot-for-admission-cell!
+# AI -> Chat-bot-for-admission-cell!
